@@ -4,11 +4,10 @@ I'm Arkanius (also known as Victor Gazotti). I work at [Kaledo](https://www.kale
 
 - Backend development [PHP](https://github.com/php/php-src), [Laravel](https://github.com/laravel)
 - AWS 
-- Project management
+- Product management
 
 Enthusiast of:
 - Statistics and Machine learning
-- Product management
 - Entrepreneurship
 - Swoole
 
