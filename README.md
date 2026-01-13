@@ -8,7 +8,7 @@ With 10+ years of experience, I combine the strategic vision of a **former CTO**
 I love the **Build in Public** ethos. Currently, I'm solving real-time communication challenges:
 * **[Ressonance](https://ressonance.com):** A robust **Websocket-as-a-Service** platform for developers who need scale without the headache.
 
-#### ⚡ Key Achievements
+#### Achievements
 * **Async PHP Runtimes:** Cited in the official Swoole book; former maintainer of `laravel-swoole`.
 * **Full Stack Mastery:** Deep expertise in building modern, reactive SPAs using **Vue.js**, **Inertia**, and **TailwindCSS**.
 * **Scale:** Managed millions of monthly active users (MAU) with lean teams, driving product strategy while maintaining high system availability and performance.
